@@ -1,0 +1,6 @@
+#include "clock.h"
+
+void game_clock_init();
+void game_clock_update();
+//void clock_display();
+//void clock_destroy();
